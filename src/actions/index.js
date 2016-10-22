@@ -1,3 +1,5 @@
+/* @flow weak */
+
 import axios from 'axios'
 import { FETCH_WEATHER } from '../constants/index'
 

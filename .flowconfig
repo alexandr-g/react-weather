@@ -1,0 +1,5 @@
+[ignore]
+<PROJECT_ROOT>/public/.*
+
+[version]
+0.33.0

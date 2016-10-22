@@ -1,3 +1,5 @@
+/* @flow weak */
+
 import React from 'react'
 import _ from 'lodash'
 import { Sparklines, SparklinesLine, SparklinesReferenceLine } from 'react-sparklines'
